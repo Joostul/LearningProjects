@@ -1,0 +1,5 @@
+﻿{
+  "Data": {
+    "RacingtimesConnection":  "Server=(localdb)\\ProjectsV13;Database=UltraRacingTimesDB;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  }
+}

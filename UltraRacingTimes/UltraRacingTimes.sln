@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8DA99C00-A2F5-4E8D-A4F7-94430E3BE89E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{94B7A821-5B2A-4C30-9BAD-96EB5FC0AEF9}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "UltraRacingTimes", "src\UltraRacingTimes\UltraRacingTimes.xproj", "{E040208A-CCD7-4F3F-AD7D-C5CBFF06C45D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E040208A-CCD7-4F3F-AD7D-C5CBFF06C45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E040208A-CCD7-4F3F-AD7D-C5CBFF06C45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E040208A-CCD7-4F3F-AD7D-C5CBFF06C45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E040208A-CCD7-4F3F-AD7D-C5CBFF06C45D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E040208A-CCD7-4F3F-AD7D-C5CBFF06C45D} = {8DA99C00-A2F5-4E8D-A4F7-94430E3BE89E}
+	EndGlobalSection
+EndGlobal
